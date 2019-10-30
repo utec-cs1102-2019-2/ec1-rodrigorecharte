@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rodrigo.recharte/CLionProjects/session11a/Bloque.h
+
+C:/Users/rodrigo.recharte/CLionProjects/session11a/Tablero.cpp
+Tablero.h
+C:/Users/rodrigo.recharte/CLionProjects/session11a/Tablero.h
+
+C:/Users/rodrigo.recharte/CLionProjects/session11a/Tablero.h
+iostream
+-
+vector
+-
+Bloque.h
+C:/Users/rodrigo.recharte/CLionProjects/session11a/Bloque.h
+
