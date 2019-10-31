@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Install script for directory: C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session11a
+=======
+# Install script for directory: C:/Users/rodrigo.recharte/CLionProjects/session11a
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +44,9 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
+<<<<<<< HEAD
 file(WRITE "C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session11a/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+=======
+file(WRITE "C:/Users/rodrigo.recharte/CLionProjects/session11a/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

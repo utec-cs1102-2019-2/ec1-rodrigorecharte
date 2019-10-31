@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rodrigo.recharte/CLionProjects/session6b/cmake-build-debug/ejercicio2.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+

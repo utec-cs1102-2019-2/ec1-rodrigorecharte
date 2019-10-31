@@ -49,10 +49,17 @@ RM = "C:\Program Files\JetBrains\CLion 2018.3\bin\cmake\win\bin\cmake.exe" -E re
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
+<<<<<<< HEAD
 CMAKE_SOURCE_DIR = C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug
+=======
+CMAKE_SOURCE_DIR = C:\Users\rodrigo.recharte\CLionProjects\session11a
+
+# The top-level build directory on which CMake was run.
+CMAKE_BINARY_DIR = C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -81,9 +88,15 @@ rebuild_cache\fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
+<<<<<<< HEAD
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug\CMakeFiles C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug\CMakeFiles 0
+=======
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug\CMakeFiles C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug\CMakeFiles\progress.marks
+	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug\CMakeFiles 0
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 .PHONY : all
 
 # The main clean target

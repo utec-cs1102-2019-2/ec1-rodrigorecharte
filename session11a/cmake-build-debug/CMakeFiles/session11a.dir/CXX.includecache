@@ -6,6 +6,7 @@
 
 #IncludeRegexTransform: 
 
+<<<<<<< HEAD
 C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session11a/Bloque.cpp
 Bloque.h
 C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session11a/Bloque.h
@@ -17,11 +18,21 @@ Tablero.h
 C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session11a/Tablero.h
 
 C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session11a/Tablero.h
+=======
+C:/Users/rodrigo.recharte/CLionProjects/session11a/Bloque.h
+
+C:/Users/rodrigo.recharte/CLionProjects/session11a/Tablero.cpp
+Tablero.h
+C:/Users/rodrigo.recharte/CLionProjects/session11a/Tablero.h
+
+C:/Users/rodrigo.recharte/CLionProjects/session11a/Tablero.h
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 iostream
 -
 vector
 -
 Bloque.h
+<<<<<<< HEAD
 C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session11a/Bloque.h
 
 C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session11a/main.cpp
@@ -29,4 +40,7 @@ iostream
 -
 Tablero.h
 C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session11a/Tablero.h
+=======
+C:/Users/rodrigo.recharte/CLionProjects/session11a/Bloque.h
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 

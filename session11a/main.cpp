@@ -6,4 +6,8 @@ int main() {
     buscaminas->instalar_minas();
     buscaminas->mostrar();
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034

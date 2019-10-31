@@ -44,10 +44,17 @@ RM = "C:\Program Files\JetBrains\CLion 2018.3\bin\cmake\win\bin\cmake.exe" -E re
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
+<<<<<<< HEAD
 CMAKE_SOURCE_DIR = C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug
+=======
+CMAKE_SOURCE_DIR = C:\Users\rodrigo.recharte\CLionProjects\session11a
+
+# The top-level build directory on which CMake was run.
+CMAKE_BINARY_DIR = C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 
 # Include any dependencies generated for this target.
 include CMakeFiles\session11a.dir\depend.make
@@ -60,59 +67,101 @@ include CMakeFiles\session11a.dir\flags.make
 
 CMakeFiles\session11a.dir\main.cpp.obj: CMakeFiles\session11a.dir\flags.make
 CMakeFiles\session11a.dir\main.cpp.obj: ..\main.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/session11a.dir/main.cpp.obj"
 	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\session11a.dir\main.cpp.obj /FdCMakeFiles\session11a.dir\ /FS -c C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\main.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/session11a.dir/main.cpp.obj"
+	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\session11a.dir\main.cpp.obj /FdCMakeFiles\session11a.dir\ /FS -c C:\Users\rodrigo.recharte\CLionProjects\session11a\main.cpp
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 <<
 
 CMakeFiles\session11a.dir\main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session11a.dir/main.cpp.i"
 	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe > CMakeFiles\session11a.dir\main.cpp.i @<<
+<<<<<<< HEAD
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\main.cpp
+=======
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rodrigo.recharte\CLionProjects\session11a\main.cpp
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 <<
 
 CMakeFiles\session11a.dir\main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session11a.dir/main.cpp.s"
 	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
+<<<<<<< HEAD
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\session11a.dir\main.cpp.s /c C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\main.cpp
+=======
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\session11a.dir\main.cpp.s /c C:\Users\rodrigo.recharte\CLionProjects\session11a\main.cpp
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 <<
 
 CMakeFiles\session11a.dir\Tablero.cpp.obj: CMakeFiles\session11a.dir\flags.make
 CMakeFiles\session11a.dir\Tablero.cpp.obj: ..\Tablero.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/session11a.dir/Tablero.cpp.obj"
 	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\session11a.dir\Tablero.cpp.obj /FdCMakeFiles\session11a.dir\ /FS -c C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\Tablero.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/session11a.dir/Tablero.cpp.obj"
+	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\session11a.dir\Tablero.cpp.obj /FdCMakeFiles\session11a.dir\ /FS -c C:\Users\rodrigo.recharte\CLionProjects\session11a\Tablero.cpp
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 <<
 
 CMakeFiles\session11a.dir\Tablero.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session11a.dir/Tablero.cpp.i"
 	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe > CMakeFiles\session11a.dir\Tablero.cpp.i @<<
+<<<<<<< HEAD
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\Tablero.cpp
+=======
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rodrigo.recharte\CLionProjects\session11a\Tablero.cpp
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 <<
 
 CMakeFiles\session11a.dir\Tablero.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session11a.dir/Tablero.cpp.s"
 	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
+<<<<<<< HEAD
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\session11a.dir\Tablero.cpp.s /c C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\Tablero.cpp
+=======
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\session11a.dir\Tablero.cpp.s /c C:\Users\rodrigo.recharte\CLionProjects\session11a\Tablero.cpp
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 <<
 
 CMakeFiles\session11a.dir\Bloque.cpp.obj: CMakeFiles\session11a.dir\flags.make
 CMakeFiles\session11a.dir\Bloque.cpp.obj: ..\Bloque.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/session11a.dir/Bloque.cpp.obj"
 	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\session11a.dir\Bloque.cpp.obj /FdCMakeFiles\session11a.dir\ /FS -c C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\Bloque.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/session11a.dir/Bloque.cpp.obj"
+	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\session11a.dir\Bloque.cpp.obj /FdCMakeFiles\session11a.dir\ /FS -c C:\Users\rodrigo.recharte\CLionProjects\session11a\Bloque.cpp
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 <<
 
 CMakeFiles\session11a.dir\Bloque.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session11a.dir/Bloque.cpp.i"
 	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe > CMakeFiles\session11a.dir\Bloque.cpp.i @<<
+<<<<<<< HEAD
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\Bloque.cpp
+=======
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rodrigo.recharte\CLionProjects\session11a\Bloque.cpp
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 <<
 
 CMakeFiles\session11a.dir\Bloque.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session11a.dir/Bloque.cpp.s"
 	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
+<<<<<<< HEAD
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\session11a.dir\Bloque.cpp.s /c C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\Bloque.cpp
+=======
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\session11a.dir\Bloque.cpp.s /c C:\Users\rodrigo.recharte\CLionProjects\session11a\Bloque.cpp
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 <<
 
 # Object files for target session11a
@@ -129,9 +178,15 @@ session11a.exe: CMakeFiles\session11a.dir\Tablero.cpp.obj
 session11a.exe: CMakeFiles\session11a.dir\Bloque.cpp.obj
 session11a.exe: CMakeFiles\session11a.dir\build.make
 session11a.exe: CMakeFiles\session11a.dir\objects1.rsp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable session11a.exe"
 	"C:\Program Files\JetBrains\CLion 2018.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\session11a.dir --manifests  -- C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\session11a.dir\objects1.rsp @<<
  /out:session11a.exe /implib:session11a.lib /pdb:C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug\session11a.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable session11a.exe"
+	"C:\Program Files\JetBrains\CLion 2018.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\session11a.dir --manifests  -- C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\session11a.dir\objects1.rsp @<<
+ /out:session11a.exe /implib:session11a.lib /pdb:C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug\session11a.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 <<
 
 # Rule to build all files generated by this target.
@@ -144,6 +199,10 @@ CMakeFiles\session11a.dir\clean:
 .PHONY : CMakeFiles\session11a.dir\clean
 
 CMakeFiles\session11a.dir\depend:
+<<<<<<< HEAD
 	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug\CMakeFiles\session11a.dir\DependInfo.cmake --color=$(COLOR)
+=======
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\rodrigo.recharte\CLionProjects\session11a C:\Users\rodrigo.recharte\CLionProjects\session11a C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug\CMakeFiles\session11a.dir\DependInfo.cmake --color=$(COLOR)
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 .PHONY : CMakeFiles\session11a.dir\depend
 

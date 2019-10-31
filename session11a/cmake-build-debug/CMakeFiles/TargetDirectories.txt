@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session11a/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session11a/cmake-build-debug/CMakeFiles/session11a.dir
 C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session11a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+=======
+C:/Users/rodrigo.recharte/CLionProjects/session11a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rodrigo.recharte/CLionProjects/session11a/cmake-build-debug/CMakeFiles/session11a.dir
+C:/Users/rodrigo.recharte/CLionProjects/session11a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034

@@ -19,4 +19,8 @@ public:
 };
 
 
+<<<<<<< HEAD
 #endif //SESSION11A_TABLERO_H
+=======
+#endif //SESSION11A_TABLERO_H
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034

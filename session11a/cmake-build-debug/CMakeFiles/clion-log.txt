@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "C:\Program Files\JetBrains\CLion 2018.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a
 -- The C compiler identification is MSVC 19.21.27702.2
 -- The CXX compiler identification is MSVC 19.21.27702.2
@@ -16,3 +17,9 @@
 -- Configuring done
 -- Generating done
 -- Build files have been written to: C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session11a/cmake-build-debug
+=======
+"C:\Program Files\JetBrains\CLion 2018.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\rodrigo.recharte\CLionProjects\session11a
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/rodrigo.recharte/CLionProjects/session11a/cmake-build-debug
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034

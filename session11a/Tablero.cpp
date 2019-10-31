@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 #include "Tablero.h"
 
 Tablero::Tablero(int filas, int columnas) {

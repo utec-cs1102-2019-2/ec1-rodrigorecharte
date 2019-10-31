@@ -1,0 +1,4 @@
+C:/Users/rodrigo.recharte/CLionProjects/session7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rodrigo.recharte/CLionProjects/session7/cmake-build-debug/CMakeFiles/session7.dir
+C:/Users/rodrigo.recharte/CLionProjects/session7/cmake-build-debug/CMakeFiles/session7_e1.dir
+C:/Users/rodrigo.recharte/CLionProjects/session7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

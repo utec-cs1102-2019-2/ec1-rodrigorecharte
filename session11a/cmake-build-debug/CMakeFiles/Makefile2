@@ -60,10 +60,17 @@ RM = "C:\Program Files\JetBrains\CLion 2018.3\bin\cmake\win\bin\cmake.exe" -E re
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
+<<<<<<< HEAD
 CMAKE_SOURCE_DIR = C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug
+=======
+CMAKE_SOURCE_DIR = C:\Users\rodrigo.recharte\CLionProjects\session11a
+
+# The top-level build directory on which CMake was run.
+CMAKE_BINARY_DIR = C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 
 #=============================================================================
 # Target rules for target CMakeFiles/session11a.dir
@@ -72,7 +79,11 @@ CMAKE_BINARY_DIR = C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session
 CMakeFiles\session11a.dir\all:
 	$(MAKE) -f CMakeFiles\session11a.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\session11a.dir\depend
 	$(MAKE) -f CMakeFiles\session11a.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\session11a.dir\build
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4 "Built target session11a"
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4 "Built target session11a"
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 .PHONY : CMakeFiles\session11a.dir\all
 
 # Include target in all.
@@ -82,9 +93,15 @@ all: CMakeFiles\session11a.dir\all
 
 # Build rule for subdir invocation for target.
 CMakeFiles\session11a.dir\rule: cmake_check_build_system
+<<<<<<< HEAD
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug\CMakeFiles 4
 	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\session11a.dir\all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\rodrigo.recharte\Desktop\ec1-rodrigorecharte\session11a\cmake-build-debug\CMakeFiles 0
+=======
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug\CMakeFiles 4
+	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\session11a.dir\all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\rodrigo.recharte\CLionProjects\session11a\cmake-build-debug\CMakeFiles 0
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
 .PHONY : CMakeFiles\session11a.dir\rule
 
 # Convenience name for target.

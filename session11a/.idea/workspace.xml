@@ -11,9 +11,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="f37ddb0e-ec20-403d-8024-9bcb56d6d509" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../session5b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="8eafaf72-6091-49ba-b5fc-cbac5ef4e32f" name="Default Changelist" comment="" />
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +32,11 @@
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
+<<<<<<< HEAD
               <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+=======
+              <caret line="5" column="119" selection-start-line="5" selection-start-column="119" selection-end-line="5" selection-end-column="119" />
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
             </state>
           </provider>
         </entry>
@@ -36,8 +44,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="153">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
+=======
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tablero.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#59#78#0" expanded="true" />
+              </folding>
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
             </state>
           </provider>
         </entry>
@@ -46,16 +74,27 @@
         <entry file="file://$PROJECT_DIR$/Tablero.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
+<<<<<<< HEAD
               <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+=======
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/Tablero.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+=======
+        <entry file="file://$PROJECT_DIR$/Bloque.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
             </state>
           </provider>
         </entry>
@@ -69,6 +108,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bloque.h">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,11 +123,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+=======
+    </leaf>
+  </component>
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/main.cpp" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Tablero.cpp" />
         <option value="$PROJECT_DIR$/Tablero.h" />
         <option value="$PROJECT_DIR$/Bloque.cpp" />
@@ -102,6 +147,21 @@
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+        <option value="$PROJECT_DIR$/Tablero.h" />
+        <option value="$PROJECT_DIR$/Bloque.cpp" />
+        <option value="$PROJECT_DIR$/Bloque.h" />
+        <option value="$PROJECT_DIR$/Tablero.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="957" />
+    <option name="y" value="28" />
+    <option name="width" value="962" />
+    <option name="height" value="1000" />
+  </component>
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -123,8 +183,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+=======
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,16 +214,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="f37ddb0e-ec20-403d-8024-9bcb56d6d509" name="Default Changelist" comment="" />
       <created>1572531645093</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572531645093</updated>
       <workItem from="1572531649352" duration="497000" />
+=======
+      <changelist id="8eafaf72-6091-49ba-b5fc-cbac5ef4e32f" name="Default Changelist" comment="" />
+      <created>1572467606969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572467606969</updated>
+      <workItem from="1572467609478" duration="4617000" />
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="497000" />
   </component>
   <component name="ToolWindowManager">
@@ -172,11 +246,29 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Messages" weight="0.32932165" />
+=======
+    <option name="totallyTimeSpent" value="4617000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CMake" weight="0.3091119" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.32871974" />
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -191,10 +283,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Bloque.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+=======
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="119" selection-start-line="5" selection-start-column="119" selection-end-line="5" selection-end-column="119" />
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
         </state>
       </provider>
     </entry>
@@ -205,6 +304,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Tablero.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -223,13 +323,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
+=======
+    <entry file="file://$PROJECT_DIR$/Bloque.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tablero.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#59#78#0" expanded="true" />
+          </folding>
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tablero.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
+<<<<<<< HEAD
           <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+=======
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+>>>>>>> 555956f8a1ad8ba1953da4043a60725ace834034
         </state>
       </provider>
     </entry>
