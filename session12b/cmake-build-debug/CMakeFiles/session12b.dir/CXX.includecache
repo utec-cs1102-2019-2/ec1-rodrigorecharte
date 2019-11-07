@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session12b/Gato.h
+Mascota.h
+C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session12b/Mascota.h
+
+C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session12b/Mascota.h
+iostream
+-
+
+C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session12b/Perro.h
+Mascota.h
+C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session12b/Mascota.h
+iostream
+-
+
+C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session12b/main.cpp
+iostream
+-
+Mascota.h
+C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session12b/Mascota.h
+Perro.h
+C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session12b/Perro.h
+Gato.h
+C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session12b/Gato.h
+vector
+-
+
