@@ -1,0 +1,4 @@
+C:/Users/rodrigo.recharte/CLionProjects/session9a/cmake-build-debug/CMakeFiles/triangulo.dir
+C:/Users/rodrigo.recharte/CLionProjects/session9a/cmake-build-debug/CMakeFiles/cilindro.dir
+C:/Users/rodrigo.recharte/CLionProjects/session9a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rodrigo.recharte/CLionProjects/session9a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
