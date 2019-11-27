@@ -1,0 +1,3 @@
+C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session14a/cmake-build-debug/CMakeFiles/session14a.dir
+C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session14a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rodrigo.recharte/Desktop/ec1-rodrigorecharte/session14a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
